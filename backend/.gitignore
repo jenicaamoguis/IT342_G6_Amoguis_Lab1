@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven / Spring Boot
+/target
+*.log
+*.class
